@@ -21,20 +21,20 @@ export const navLinks = [
   { href: "#contact-us", label: "Contact Us" },
 ];
 
-// export const shoes = [
-//   {
-//     thumbnail: thumbnailShoe1,
-//     bigShoe: bigShoe1,
-//   },
-//   {
-//     thumbnail: thumbnailShoe2,
-//     bigShoe: bigShoe2,
-//   },
-//   {
-//     thumbnail: thumbnailShoe3,
-//     bigShoe: bigShoe3,
-//   },
-// ];
+export const shoes = [
+  {
+    thumbnail: "/assets/images/thumbnail-shoe1.svg",
+    bigShoe: "/assets/images/big-shoe1.png",
+  },
+  {
+    thumbnail: "/assets/images/thumbnail-shoe2.svg",
+    bigShoe: "/assets/images/big-shoe2.png",
+  },
+  {
+    thumbnail: "/assets/images/thumbnail-shoe3.svg",
+    bigShoe: "/assets/images/big-shoe3.png",
+  },
+];
 
 export const statistics = [
   { value: "1k+", label: "Brands" },
