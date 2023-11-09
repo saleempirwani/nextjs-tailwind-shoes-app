@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col">
           <a href="/">
             <Image
-              src="/assets/images/footer-logo.svg"
+              src="/assets/images/header-logo.svg"
               alt="footer"
               width={150}
               height={46}
