@@ -1,9 +1,15 @@
 import Image from "next/image";
 import React from "react";
+import { twMerge } from "tailwind-merge";
 
-const Button = ({ label = "", iconUrl = "" }) => {
+const Button = ({ label = "", iconUrl = "", className = "" }) => {
   return (
-    <button className="flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none bg-coral-red border-coral-red rounded-full text-white">
+    <button
+      className={twMerge(
+        "flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none bg-coral-red border-coral-red rounded-full text-white",
+        className
+      )}
+    >
       {label}
       {iconUrl && (
         <Image
