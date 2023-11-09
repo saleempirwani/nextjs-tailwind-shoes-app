@@ -19,14 +19,15 @@ const SpecialOffer = () => {
           <span className="text-coral-red">Special</span> Offer
         </h2>
         <p className="mt-4 lg:max-w-lg info-text">
-          Our carefully crafted footwear guarantees superior comfort and style.
-          Created with meticulous attention to detail, our shoes are intended to
-          enhance your experience, offering unparalleled quality, innovation,
-          and a hint of sophistication.
+          Embark on a shopping journey that redefines your experience with
+          unbeatable deals. From premier selections to incredible savings, we
+          offer unparalleled value that sets us apart.
         </p>
 
         <p className="mt-6 lg:max-w-lg info-text">
-          Our dedication to detail and excellence ensures your satisfaction
+          Navigate a realm of possibilities designed to fulfill your unique
+          desires, surpassing the loftiest expectations. Your journey with us is
+          nothing short of exceptional.{" "}
         </p>
 
         <div className="mt-11 flex flex-wrap gap-4">
