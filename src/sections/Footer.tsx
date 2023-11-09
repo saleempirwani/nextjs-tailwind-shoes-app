@@ -16,7 +16,7 @@ const Footer = () => {
             />
           </a>
           <p className="mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm ">
-            Get shoes ready for the new term at your nearest Nike store. Find
+            Get shoes ready for the new term at your nearest Royal store. Find
             Your perfect Size In Store. Get Rewards
           </p>
 

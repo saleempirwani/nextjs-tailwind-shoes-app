@@ -29,25 +29,25 @@ export const statistics = [
 export const products = [
   {
     imgURL: "/assets/images/shoe4.svg",
-    name: "Nike Air Jordan-01",
+    name: "Royal Air Jordan-01",
     price: "$200.20",
     rating: "4.5",
   },
   {
     imgURL: "/assets/images/shoe5.svg",
-    name: "Nike Air Jordan-10",
+    name: "Royal Air Jordan-10",
     price: "$210.20",
     rating: "4.9",
   },
   {
     imgURL: "/assets/images/shoe6.svg",
-    name: "Nike Air Jordan-100",
+    name: "Royal Air Jordan-100",
     price: "$220.20",
     rating: "5.0",
   },
   {
     imgURL: "/assets/images/shoe7.svg",
-    name: "Nike Air Jordan-001",
+    name: "Royal Air Jordan-001",
     rating: "4.3",
   },
 ];
@@ -102,8 +102,8 @@ export const footerLinks = [
       { name: "Air Max 1", link: "/" },
       { name: "Air Jordan 1", link: "/" },
       { name: "Air Force 2", link: "/" },
-      { name: "Nike Waffle Racer", link: "/" },
-      { name: "Nike Cortez", link: "/" },
+      { name: "Royal Waffle Racer", link: "/" },
+      { name: "Royal Cortez", link: "/" },
     ],
   },
   {
